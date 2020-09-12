@@ -1,77 +1,32 @@
-# GADS-2020-Practice-Project-Google-Cloud-
-This repository holds 10 Labs and 2 Lab Translations in GCP Phase 2 Practice Project.
+# GADS2020-Phase-2-Projects
+This repository contains 15 labs and 3 Lab Translations for GADS2020 Phase 2 projects in the Google Cloud Platform Track<br/>
+Done by Tichaona Ngatiane.<br/>
+Email: ngattich@gmail.com
 
-
-# CONTENTS
+# LIST OF CONTENTS
+## Translations
+AK8S-03 Creating a GKE Cluster via GCP Console.md<br/>
+Implement Private Google Access and Cloud NAT.md<br/>
+VPC networking.md
 
 ## Labs
+1. 
+AK8S-03 Creating a GKE Cluster via GCP Console.png<br/>
+AK8S-14 Securing Kubernetes Engine with Cloud IAM and Pod Security Policies.png<br/>
+AK8S-18 Using Cloud SQL with Kubernetes Engine.png<br/>
+Automating the Deployment of Infrastructure Using Deployment Manager.png<br/>
+Automating the Deployment of Infrastructure Using Terraform.png<br/>
+Cloud Storage.png<br/>
+Creating Virtual Machines.png<br/>
+Error reporting and debugging.png<br/>
+Examining billing data with BQ.png<br/>
+Implement private google access and NAT.png<br/>
+implementing cloud sql.png<br/>
+resource monitoring.png<br/>
+Virtual Private Networks.png<br/>
+vpc networking.png<br/>
+Working with Virtual Machines.png<br/>
 
-1.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Getting Started with Google Cloud Platform <br/>
-Lab TitleGCP Fundamentals: Getting Started with Cloud Marketplace <br/>
-
-2.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Getting Started with Google Cloud Platform <br/>
-GCP Fundamentals: Getting Started with Compute Engine <br/>
-
-3.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Storage in the Cloud <br/>
-GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL <br/>
-
-4.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Storage in the Cloud <br/>
-GCP Fundamentals: Getting Started with Cloud Storage and Cloud SQL <br/>
-
-4.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Containers in the Cloud <br/>
-GCP Fundamentals: Getting Started with Kubernetes Engine <br/>
-
-5.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Applications in the Cloud <br/>
-GCP Fundamentals: Getting Started with App Engine <br/>
-
-6.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Developing, Deploying and Monitoring in the Cloud <br/>
-GCP Fundamentals: Getting Started with Deployment Manager and Stackdriver <br/>
-
-7.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Big Data and Machine Learning in the Cloud <br/>
-GCP Fundamentals: Getting Started with BigQuery <br/>
-
-8.
-Course: Google Cloud Platform Big Data and Machine Learning Fundamentals <br/>
-Module: Recommending Products using Cloud SQL and Spark <br/>
-Lab: Recommend Products using ML with Cloud SQL and Dataproc <br/>
-
-9.
-Course: Exploring and Preparing your Data with BigQuery <br/>
-Module: Big Data Tools Overview <br/>
-Explore a BigQuery Public Dataset <br/>
-
-
-10.
-Course: Exploring and Preparing your Data with BigQuery <br/>
-Module: Big Data Tools Overview <br/>
-Troubleshooting Common SQL Errors with BigQuery v1.5 <br/>
-
-
-
-## Translations
-
-1.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Getting Started with Google Cloud Platform <br/>
-GCP Fundamentals: Getting Started with Compute Engine <br/>
-
-2.
-Course: Google Cloud Platform Fundamentals - Core Infrastructure<br/>
-Module: Containers in the Cloud <br/>
-GCP Fundamentals: Getting Started with Kubernetes Engine <br/>
+Course: Google Cloud Platform Fundamentals - Core Infrastructure
+Module: Getting Started with Google Cloud Platform
+GCP Fundamentals: Getting Started with Cloud Marketplace
